@@ -1,0 +1,9 @@
+CREATE TABLE "SYSTEM"."CUSTOMER"
+   (    "ID" VARCHAR2(20),
+        "NAME" VARCHAR2(20),
+        "ADDRESS" VARCHAR2(20),
+        "AADHAR" VARCHAR2(20),
+        "PANNO" VARCHAR2(20),
+        "CONTACT" VARCHAR2(20),
+        "GENDER" VARCHAR2(20)
+   )
